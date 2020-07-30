@@ -1,2 +1,2 @@
-# Angry-birds-stage-5.5-Harshil-Shah
-Making the pigs disappear
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
